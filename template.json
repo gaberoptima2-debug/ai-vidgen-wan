@@ -1,0 +1,67 @@
+{
+  "template_repo": "https://github.com/Hearmeman24/comfyui-wan.git",
+  "branch": "master",
+  "provisioning_mode": "walk",
+  "flags": {
+    "download_wan21": {
+      "folders": [
+        "Wan 2.1"
+      ],
+      "extra_models": [
+        "2xLiveActionV1_SPAN_490000.pth",
+        "rife426.pth",
+        "taew2_1.pth"
+      ]
+    },
+    "download_wan22": {
+      "folders": [
+        "AI VIDGEN"
+      ],
+      "extra_models": [
+        "rife426.pth"
+      ]
+    },
+    "download_wan_animate": {
+      "folders": [
+        "Wan Animate"
+      ],
+      "extra_models": [
+        "1x-ITF-SkinDiffDetail-Lite-v1.pth",
+        "2xLiveActionV1_SPAN_490000.pth",
+        "rife426.pth",
+        "taew2_1.pth",
+        "lightx2v_I2V_14B_480p_cfg_step_distill_rank64_bf16.safetensors",
+        "sam3.1_multiplex_fp16.safetensors"
+      ]
+    },
+    "download_steady_dancer": {
+      "folders": [
+        "Steady Dancer"
+      ],
+      "extra_models": [
+        "2xLiveActionV1_SPAN_490000.pth",
+        "rife426.pth",
+        "taew2_1.pth"
+      ]
+    },
+    "DOWNLOAD_SCAIL2": {
+      "folders": [
+        "SCAIL-2"
+      ],
+      "extra_models": [
+        "2xLiveActionV1_SPAN_490000.pth",
+        "rife426.pth",
+        "taew2_1.pth",
+        "wan2.1_SCAIL_2_DPO_lora_bf16.safetensors",
+        "1x-ITF-SkinDiffDetail-Lite-v1.pth"
+      ]
+    }
+  },
+  "auto_download": [],
+  "models_symlink": false,
+  "custom_nodes": {
+    "target": "image",
+    "repos": []
+  },
+  "sage": true
+}
