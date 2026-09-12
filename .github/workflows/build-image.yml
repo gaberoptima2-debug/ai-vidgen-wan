@@ -42,4 +42,4 @@ jobs:
           push: true
           tags: |
             ghcr.io/gaberoptima2-debug/ai-vidgen-wan:latest
-            ghcr.io/gaberoptima2-debug/ai-vidgen-wan:v1
+            ghcr.io/gaberoptima2-debug/ai-vidgen-wan:v1.1
