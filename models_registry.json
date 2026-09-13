@@ -163,6 +163,7 @@
   },
   "realesr-animevideov3.pth": {
     "url": "https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.5.0/realesr-animevideov3.pth",
-    "subdir": "upscale_models"
+    "subdir": "upscale_models",
+    "min_size_mb": 2
   }
 }
