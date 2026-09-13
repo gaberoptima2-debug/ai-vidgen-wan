@@ -144,21 +144,5 @@
   "wan2.2_t2v_A14b_low_noise_lora_rank64_lightx2v_4step_1217.safetensors": {
     "url": "https://huggingface.co/lightx2v/Wan2.2-Distill-Loras/resolve/main/wan2.2_t2v_A14b_low_noise_lora_rank64_lightx2v_4step_1217.safetensors",
     "subdir": "loras"
-  },
-  "wan2.2_i2v_high_noise_14B_fp8_scaled.safetensors": {
-    "url": "https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/resolve/main/split_files/diffusion_models/wan2.2_i2v_high_noise_14B_fp8_scaled.safetensors",
-    "subdir": "diffusion_models"
-  },
-  "wan2.2_i2v_low_noise_14B_fp8_scaled.safetensors": {
-    "url": "https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/resolve/main/split_files/diffusion_models/wan2.2_i2v_low_noise_14B_fp8_scaled.safetensors",
-    "subdir": "diffusion_models"
-  },
-  "RealESRGAN_x4plus.pth": {
-    "url": "https://github.com/xinntao/Real-ESRGAN/releases/download/v0.1.0/RealESRGAN_x4plus.pth",
-    "subdir": "upscale_models"
-  },
-  "RealESRGAN_x4plus_anime_6B.pth": {
-    "url": "https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.2.4/RealESRGAN_x4plus_anime_6B.pth",
-    "subdir": "upscale_models"
   }
 }
