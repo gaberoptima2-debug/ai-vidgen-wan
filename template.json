@@ -63,5 +63,6 @@
     "target": "image",
     "repos": []
   },
-  "sage": true
+  "sage": true,
+  "comfy_extra_args": "--cache-none"
 }
